@@ -624,7 +624,7 @@ export default function App() {
               <CalendarCheck size={20} strokeWidth={1.5} />{" "}
             </span>
             <span className="wp-sb-slash">/</span>
-            <span className="wp-sb-org">shiftflow</span>
+            <span className="wp-sb-org">ShiftFlow Omega</span>
             <span className="wp-sb-chevron">⌄</span>
           </div>
           <div className="wp-sb-topbar-right">
@@ -930,7 +930,7 @@ export default function App() {
               <CalendarCheck size={20} strokeWidth={1.5} />{" "}
             </span>
             <span className="wp-sb-slash">/</span>
-            <span className="wp-sb-org">shiftflow</span>
+            <span className="wp-sb-org">ShiftFlow Omega</span>
             <span className="wp-sb-plan">DEVOTION</span>
           </div>
           <div className="wp-sb-topbar-right">
@@ -1002,7 +1002,7 @@ export default function App() {
         <div className="wp-app wp-loginscreen">
           <Style />
           <div className="wp-loginbox">
-            <div className="wp-kicker">shiftflow Platform</div>
+            <div className="wp-kicker">ShiftFlow Omega Platform</div>
             <h1 className="wp-title" style={{ fontSize: "30px" }}>
               🛡️ Admin Access
             </h1>
@@ -1070,7 +1070,7 @@ export default function App() {
           <div className="wp-sb-topbar-left">
             <span className="wp-sb-logo">⚡</span>
             <span className="wp-sb-slash">/</span>
-            <span className="wp-sb-org">shiftflow</span>
+            <span className="wp-sb-org">ShiftFlow Omega</span>
             <span className="wp-sb-plan">ADMIN</span>
           </div>
           <div className="wp-sb-topbar-right">
@@ -1110,7 +1110,7 @@ export default function App() {
               </button>
             </div>
             <p className="wp-muted" style={{ margin: "0 0 22px" }}>
-              A quick check of how shiftflow is being used across every church
+              A quick check of how ShiftFlow Omega is being used across every church
               currently registered.
             </p>
 
@@ -1217,13 +1217,13 @@ export default function App() {
           <div className="wp-sb-topbar-left">
             <span className="wp-sb-logo">⚡</span>
             <span className="wp-sb-slash">/</span>
-            <span className="wp-sb-org">shiftflow</span>
+            <span className="wp-sb-org">ShiftFlow Omega</span>
           </div>
         </div>
 
         <div className="wp-sb-authwrap">
           <div className="wp-sb-authbox">
-            <div className="wp-kicker">shiftflow Platform</div>
+            <div className="wp-kicker">ShiftFlow Omega Platform</div>
             <h1 className="wp-title">Home Base</h1>
             <p className="wp-muted" style={{ margin: "14px 0 20px" }}>
               Enter your church access code to connect to your server:
