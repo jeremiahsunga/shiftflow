@@ -663,7 +663,7 @@ export default function App() {
               title="Admin"
               onClick={() => setAppStage("admin")}
             >
-              <ShieldUser size={16} strokeWidth={2} />
+              <ShieldCheck size={16} strokeWidth={2} />
             </button>
           </div>
 
@@ -962,7 +962,7 @@ export default function App() {
               title="Admin"
               onClick={() => setAppStage("admin")}
             >
-              <ShieldUser size={16} strokeWidth={2} />
+              <ShieldCheck size={16} strokeWidth={2} />
             </button>
           </div>
           <div className="wp-sb-main">
