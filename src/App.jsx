@@ -3,7 +3,7 @@ import { createClient } from "@supabase/supabase-js";
 import {
   Church,
   BookOpen,
-  ShieldUser,
+  ShieldCheck,
   CalendarCheck,
   Plus,
   Search,
