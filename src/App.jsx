@@ -7,7 +7,7 @@ import {
   CalendarCheck,
   Plus,
   Search,
-  House,
+  Home,
   CalendarCheck2,
   Users,
   ListPlus,
