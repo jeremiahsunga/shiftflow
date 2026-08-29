@@ -979,7 +979,7 @@ export default function App() {
                   gap: "8px",
                 }}
               >
-                <House size={16} strokeWidth={2.5} /> Back to Churches
+                <Home size={16} strokeWidth={2.5} /> Back to Churches
               </button>
             </div>
             <p className="wp-muted" style={{ margin: "0 0 22px" }}>
@@ -1348,7 +1348,7 @@ export default function App() {
                 setAppStage("dashboard");
               }}
             >
-              <House size={16} strokeWidth={2.5} /> Home Base
+              <Home size={16} strokeWidth={2.5} /> Home Base
             </button>
           </div>
         </div>
@@ -1506,7 +1506,7 @@ export default function App() {
               setAppStage("dashboard");
             }}
           >
-            <House size={16} strokeWidth={2.5} />
+            <Home size={16} strokeWidth={2.5} />
           </button>
           <button
             className="wp-sb-iconbtn"
@@ -1548,7 +1548,7 @@ export default function App() {
               setAppStage("dashboard");
             }}
           >
-            <House size={16} strokeWidth={1.5} />
+            <Home size={16} strokeWidth={1.5} />
           </button>
         </div>
 
