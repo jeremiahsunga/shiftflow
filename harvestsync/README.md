@@ -1,4 +1,4 @@
-# HarvestSync
+# ShiftFlow Omega
 
 A church scheduling / song-library / team-chat app, backed by Supabase.
 
@@ -39,7 +39,7 @@ git push -u origin main
 4. Vercel auto-detects Vite. Leave the defaults:
    - Build Command: `npm run build` (auto-filled)
    - Output Directory: `dist` (auto-filled)
-5. Click **Deploy**. You'll get a live URL like `harvestsync.vercel.app`
+5. Click **Deploy**. You'll get a live URL like `ShiftFlow Omega.vercel.app`
    within a minute or two.
 
 **Option B — Vercel CLI:**
